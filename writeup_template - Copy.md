@@ -1,8 +1,7 @@
-# **Finding Lane Lines on the Road** 
+## *Finding Lane Lines on the Road** 
+[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-## Writeup Template
-
-### You can use this file as a template for your writeup if you want to submit it as a markdown file. But feel free to use some other method and submit a pdf if you prefer.
+[image1]: ./test_images_output/solidWhiteCurve.jpg_8_weighted_2.png
 
 ---
 
@@ -15,7 +14,19 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/grayscale.jpg "Grayscale"
+[image2]: ./test_images_output/solidWhiteCurve.jpg_1_original.png "Original"
+[image3]: ./test_images_output/solidWhiteCurve.jpg_2_gray.png "Gray"
+[image4]: ./test_images_output/solidWhiteCurve.jpg_3_gauss.png "Gaussian Blur"
+[image5]: ./test_images_output/solidWhiteCurve.jpg_4_canny.png "Canny Edge Detection"
+[image6]: ./test_images_output/solidWhiteCurve.jpg_4_roi.png "Region of interest"
+[image7]: ./test_images_output/solidWhiteCurve.jpg_6_hough.png "Hough Lines"
+[image8]: ./test_images_output/solidWhiteCurve.jpg_7_weighted.png "Hough Lines over Original"
+[image9]: ./test_images_output/solidWhiteCurve.jpg_8_weighted2.png "Custom-drawn lines"
+
+
+
+
+
 
 ---
 
